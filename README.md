@@ -4,7 +4,7 @@ My name is Memo.
 
 :email: My Email: memochou1993@gmail.com
 
-:bookmark: My Blog: <https://blog.epoch.tw/>
+:notebook_with_decorative_cover: My Blog: <https://blog.epoch.tw/>
 
 :bulb: My Portfolio: <https://portfolio.epoch.tw/>
 
