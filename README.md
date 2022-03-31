@@ -12,4 +12,4 @@ Any questions, or want to get involved, please get in touch. Thanks for visiting
 
 :bulb: Portfolio: <https://portfolio.epoch.tw/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=memochou1993&show_icons=true&theme=radical" alt="memochou1993" />
+<a href="https://github-readme-stats.vercel.app/api?username=memochou1993&show_icons=true&theme=radical" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=memochou1993&show_icons=true&theme=radical" alt="memochou1993" /></a>
