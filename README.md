@@ -1,6 +1,6 @@
 ### Hi there :raising_hand:
 
-I'm Memo Chou, a creative developer passionate about Go, PHP and JavaScript.
+I'm Memo Chou, a creative developer passionate about Go, PHP, Rust and JavaScript.
 
 I currently work as a Software Engineer at KKLab.
 
