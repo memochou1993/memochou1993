@@ -8,7 +8,7 @@ Any questions, or want to get involved, please get in touch. Thanks for visiting
 
 📧 Email: memochou1993@gmail.com
 
-📇 Profile: <https://epoch.tw/>
+📇 Profile: <https://profile.epoch.tw/>
 
 📔 Blog: <https://blog.epoch.tw/>
 
